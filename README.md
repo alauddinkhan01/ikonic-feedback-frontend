@@ -4,6 +4,12 @@ This is Ikonic feedback system
 
 ## Installation
 
+Clone the Project:
+
+```bash
+git clone https://github.com/alauddinkhan01/ikonic-feedback-frontend.git
+```
+
 Install dependencies:
 
 ```bash
